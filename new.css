@@ -1,0 +1,179 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-color: black;
+    
+}
+h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+    margin-left: 25%;
+    margin-top: 5%;
+    font-size: 35px;
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 5px;
+    padding-left: 8%;
+    padding-right: 8%;
+}
+nav ul li{
+    list-style-type:none;
+    display: inline-block;
+    padding: 10px 25px;
+    margin-top: -40px;
+}
+.lists{
+    color: #faf4f6;
+    text-decoration: none;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+.links:hover{
+    color: #f9004d;
+    transition: .4s;
+    cursor: pointer;
+}
+
+a{
+    color:#faf4f6;
+}
+a:hover{
+    color: #f9004d;
+    transition: .4s;
+    cursor: pointer;
+}
+span{
+    color: crimson;
+}
+.first-link{
+    border: 1px solid white;
+    margin-left: 270px;
+    background-color: gold;
+    color: white;
+    font-size: 20px;
+    border-radius: 20px;
+    padding: 5px;
+    margin-top:-500px;
+}
+.formone{
+    border: 1px solid white;
+    color: white;
+    width: 98%;
+    background-color: darkgray;
+    margin-top: 60px;
+}
+.formsey{
+    color: white;
+    background-color: darkgrey;
+}
+.filling{
+    padding: 10px;
+    margin-left: -90px;
+    background-color: gold;
+}
+.fill{
+    padding: 10px;
+    margin-top: -300px;
+    border-radius: 27px;
+    margin-left: -16px;
+    background-color: white;
+}
+.words{
+    background-color: darkgrey;
+    color: black;
+}
+.wordsone{
+    margin-left: 60px;
+    margin-top: 20px;
+    background-color:;
+}
+.another-link{
+    border: 1px solid white;
+    border-radius: 10px;
+    padding: 5px 7px;
+    background-color: gold;
+    margin-left: 30px;
+    margin-top: -30px;
+}
+.linking{
+    margin-left:260px;
+    margin-top: -60px;
+    background-color: darkgrey;
+    width: 15%;
+    padding-top: 20px;
+    border-radius: 15px;
+    width: 30%;
+    height: 7VH;
+}
+.wordstwo{
+    background-color: darkgrey;
+    margin-top: -15px;
+    margin-left: 20PX;
+    width: 80%;
+}
+.flash-cards{
+    border-radius: 7px;
+    height: 50vh;
+}
+.wordstwos{
+    background-color: darkgrey;
+    margin-top: -15px;
+    margin-left: 20PX;
+    width: 80%;
+}
+.linkings{
+    margin-left:260px;
+    margin-top: 10px;
+    background-color: darkgrey;
+    width: 15%;
+    padding-top: 20px;
+    border-radius: 15px;
+    width: 30%;
+    height: 7VH;
+}
+.another-links{
+    border: 1px solid white;
+    border-radius: 10px;
+    padding: 5px 7px;
+    background-color: gold;
+    margin-left: 30px;
+    margin-top: -30px;
+}
+.last-part{
+    margin-top: -60px;
+    width: 50%;
+    margin-left: 180px;
+}
+.buttontee{
+    background-color: gold;
+    color: white;
+    text-decoration: none;
+    border: 2px solid transparent;
+    font-weight: bold;
+    padding: 9px 22px; 
+    border-radius: 30px;
+    transition: .4s;
+    margin: 20%;
+    margin-bottom: 50%;
+}
+.buttontee:hover{
+    background-color: transparent;
+    border: 2px solid gold;
+    cursor: pointer;
+}
+.container{
+    width: 90%;
+    margin-left: 10px;
+    margin-top: 80px;
+    height: 70vh;
+}
+.swiper{
+    width: 100%;
+    height: fit-content;
+}
+.swiper-slide img{
+    width:100%;
+}
